@@ -2,7 +2,7 @@
 
 Apache RocketMQ Docker module provides Dockerfiles and scripts for RocketMQ.
 
-This repository includes the following: 
+This repository includes the following:
 
 1. Dockerfile and scripts for RocketMQ base image;
 2. Dockerfile and scripts for RocketMQ run in following 3 scenarios:
@@ -14,7 +14,7 @@ This repository includes the following:
 
 ### For Docker
 
-Run: 
+Run:
 
 ```
 cd 4.2.0
@@ -31,6 +31,7 @@ Run:
 cd 4.2.0
 
 ./play-docker-compose.sh
+修改了配置，重新运行也是使用这个命令
 
 ```
 
